@@ -5,3 +5,6 @@ h1{
 .texto{
     color: darkgoldenrod;
 }     
+#principal p{
+    font-weight: 900;
+}
