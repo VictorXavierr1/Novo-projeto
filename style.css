@@ -1,6 +1,10 @@
 body {
     text-align: center;
 }
+h1{
+    color: brown;
+}
+/*
 
 .titulo-animado {
     animation: mudar-cor 4s infinite;
@@ -8,6 +12,8 @@ body {
 }
 
 /* Define a animação */
+
+/*
 @keyframes mudar-cor {
     0% {
         color: blue;
@@ -21,7 +27,7 @@ body {
     100% {
         color: blue;
     }
-
+*/
 
 h1{
     font-size: 22px;
